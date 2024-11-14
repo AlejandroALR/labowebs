@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    color: #2a2a2a;
+    color: #ff0000;
     line-height: 1.6;
     background-color: #e6f0ff;
     display: flex;
@@ -14,13 +14,18 @@ body {
     min-height: 100vh;
 }
 
+h2 {
+    color: #ff0000;
+    margin-bottom: 15px;
+}
+
 header, footer {
-    background-color: #2a75ff;
+    background-color: #008d00;;
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
 }
-
+ 
 header h1, footer p {
     margin: 0;
 }
@@ -32,11 +37,6 @@ section.about, section.contact-form, section.map {
     background: #ffffff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-h2 {
-    color: #2a2a2a;
-    margin-bottom: 15px;
 }
 
 p, li {
