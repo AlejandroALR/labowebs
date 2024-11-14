@@ -14,13 +14,22 @@ body {
     min-height: 100vh;
 }
 
+h2 {
+    color: #ff0000;
+    margin-bottom: 15px;
+}
+
 header, footer {
+<<<<<<< HEAD
     background-color: #008d00;
+=======
+    background-color: #008d00;;
+>>>>>>> feature-estilos
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
 }
-
+ 
 header h1, footer p {
     margin: 0;
 }
@@ -34,11 +43,14 @@ section.about, section.contact-form, section.map {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+<<<<<<< HEAD
 h2 {
     color: #ff0000;
     margin-bottom: 15px;
 }
 
+=======
+>>>>>>> feature-estilos
 p, li {
     color: #555;
 }
