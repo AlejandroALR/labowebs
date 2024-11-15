@@ -215,3 +215,15 @@
 3. Fusiona la rama  `hotfix-js` en  `main`. Debe producirse un conflicto. Resuélvelo. Cuando  termines la resolución del conflicto sube los cambios al remoto - Deja los repositorios  sincronizados
 
    ![image-20241115093836149](./Ejercicio de Git - proyecto labowebs.assets/image-20241115093836149.png)
+   
+   ## Subida de documentación
+   
+   En la carpeta del proyecto  `labowebs` añade una carpeta  `docs`. Copia en esa carpeta el  fichero markdown y la carpeta con las imágenes. Incluye también el `pdf`. Añade todo al repositorio. Súbelo al remoto.
+   
+   ![image-20241115101124540](./Ejercicio de Git - proyecto labowebs.assets/image-20241115101124540.png)
+   
+   ![image-20241115101208015](./Ejercicio de Git - proyecto labowebs.assets/image-20241115101208015.png)
+   
+   ![image-20241115101243741](./Ejercicio de Git - proyecto labowebs.assets/image-20241115101243741.png)
+   
+   
