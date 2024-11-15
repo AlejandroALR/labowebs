@@ -226,4 +226,8 @@
    
    ![image-20241115101243741](./Ejercicio de Git - proyecto labowebs.assets/image-20241115101243741.png)
    
+   ![image-20241115101445977](./Ejercicio de Git - proyecto labowebs.assets/image-20241115101445977.png)
+   
+   
+   
    
